@@ -1,0 +1,12 @@
+Setup our project folder with whatever frameworks we need
+
+create folders and pages for each page in our project 
+setup app configuration and routes
+
+learned how to commit in github and setup a repo
+
+learned how to make navbar
+
+how to make the person know what page they are on by making the text bold if the pathname is === to the href
+
+styled the navbar and linked each page with href so when we press the word it put us on that page
